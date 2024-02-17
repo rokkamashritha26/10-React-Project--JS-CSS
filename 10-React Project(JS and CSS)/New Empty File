@@ -6,8 +6,6 @@ Recipe Finder: Build an app where users can search for recipes based on ingredie
 
 Movie Catalog: Develop a movie catalog app that allows users to browse and search for movies, view details, and watch trailers. You can use a movie database API to fetch movie information. This project will help you practice working with API requests and handling data.
 
-Calculator: Create a basic calculator app with arithmetic operations like addition, subtraction, multiplication, and division. This project will reinforce your understanding of handling user input and performing calculations in React.
-
 Login/Registration Form: Build a login and registration form with validation. This project will help you understand form handling in React and how to manage user authentication.
 
 Markdown Previewer: Develop an app where users can input Markdown syntax and see a live preview of the formatted text. This project will introduce you to working with text input, parsing Markdown, and rendering dynamic content.
