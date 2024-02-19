@@ -28,9 +28,9 @@
   </tr>
 
   <tr>
-    <td>#</td>
-    <td><a href="">Check</td>
-    <td><a href="">Code</td>
+    <td>04.Weather App</td>
+    <td><a href="https://weather-app-r4.netlify.app">Check</td>
+    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/tree/master/10-React%20Project(JS%20and%20CSS)/04WeatherApp">Code</td>
   </tr>
 
   <tr>
