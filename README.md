@@ -55,9 +55,9 @@ In this repository, you'll find a variety of React projects showcasing different
 
 
   <tr>
-    <td>#</td>
-    <td><a href="">Check</td>
-    <td><a href="">Code</td>
+    <td>06.React Portfolio</td>
+    <td><a href="https://sudeep-acharjee-live.netlify.app/">Check</td>
+    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/blob/master/10-React%20Project(JS%20and%20CSS)/06.React-Portfoilio">Code</td>
   </tr>
 
 
