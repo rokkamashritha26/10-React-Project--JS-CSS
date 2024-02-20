@@ -50,7 +50,7 @@ In this repository, you'll find a variety of React projects showcasing different
   <tr>
     <td>05.Recpie Finder App</td>
     <td><a href="https://recpie-r5.netlify.app/">Check</td>
-    <td><a href="">Code</td>
+    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/tree/master/10-React%20Project(JS%20and%20CSS)/05.Recipie%20Finder%20App">Code</td>
   </tr>
 
 
