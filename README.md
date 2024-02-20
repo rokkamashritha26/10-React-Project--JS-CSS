@@ -64,7 +64,7 @@ In this repository, you'll find a variety of React projects showcasing different
 
   <tr>
     <td>07.Single Branding Page</td>
-    <td><a href="">Check</td>
+    <td><a href="https://single-page-brand-r7.netlify.app/">Check</td>
     <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/tree/master/10-React%20Project(JS%20and%20CSS)/07.Single%20Page%20(Brand)">Code</td>
   </tr>
 
