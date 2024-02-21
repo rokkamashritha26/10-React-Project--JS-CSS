@@ -1,6 +1,6 @@
 <center> <h1> Welcome to the React Learning Project </h1></center>
-<center> <h4><u> This Repository contains 20 React Project<br>
-               (10 Javascript + CSS) (10 Typescript +Tailwindcss)</u></h4><center>
+<center> <h4><i> This Repository contains 10 React Project<br>
+               (10 Javascript + CSS)</i></h4><center>
 <h1>Overview</h1>
 <h4>
 In this repository, you'll find a variety of React projects showcasing different features, functionalities, and use cases. Each project is designed to demonstrate best practices, coding techniques, and integration of various tools and libraries.
@@ -9,9 +9,7 @@ In this repository, you'll find a variety of React projects showcasing different
 ## Features
 
 - **Vite**: Utilizes Vite for lightning-fast development experience with instant server start and hot module replacement.
-- **TypeScript**: Ensures type safety and better code maintainability with TypeScript.
 - **JavaScript**: Offers projects in JavaScript for those who prefer it over TypeScript.
-- **Tailwind CSS**: Utilizes Tailwind CSS for rapid and efficient UI styling without writing custom CSS.
 - **Variety**: Includes a diverse range of projects covering different aspects of React development such as state management, routing, authentication, APIs integration, and more.
 - **Documentation**: Each project comes with detailed documentation explaining its purpose, features, and how to run it locally.
 
@@ -93,6 +91,10 @@ In this repository, you'll find a variety of React projects showcasing different
 ## Getting Started
 
 To get started with any project, simply navigate to its directory, follow the instructions provided in the documentation, and run the necessary commands to launch the project locally.
+1. select the folder
+2. open Terminal
+3. npm i
+4. npm run dev
 
 ## Contribution
 
