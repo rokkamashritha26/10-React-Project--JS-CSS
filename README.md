@@ -76,8 +76,8 @@ In this repository, you'll find a variety of React projects showcasing different
 
 
   <tr>
-    <td>#</td>
-    <td><a href="">Check</td>
+    <td>09.Dice Game</td>
+    <td><a href="https://dice-game-r9.netlify.app/">Check</td>
     <td><a href="">Code</td>
   </tr>
 
