@@ -78,7 +78,7 @@ In this repository, you'll find a variety of React projects showcasing different
   <tr>
     <td>09.Dice Game</td>
     <td><a href="https://dice-game-r9.netlify.app/">Check</td>
-    <td><a href="">Code</td>
+    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/tree/master/10-React%20Project(JS%20and%20CSS)/09.Dice%20Game">Code</td>
   </tr>
 
 
