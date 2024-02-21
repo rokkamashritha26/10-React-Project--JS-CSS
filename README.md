@@ -83,9 +83,9 @@ In this repository, you'll find a variety of React projects showcasing different
 
 
   <tr>
-    <td>#</td>
-    <td><a href="">Check</td>
-    <td><a href="">Code</td>
+    <td>10.Navbar(Theme Change)</td>
+    <td><a href="https://navbar-theme-toggle-r10.netlify.app/">Check</td>
+    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/tree/master/10-React%20Project(JS%20and%20CSS)/10.Navabar(Theme%20Change)">Code</td>
   </tr>
 </table>
 
