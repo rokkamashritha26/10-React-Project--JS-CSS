@@ -55,7 +55,7 @@ In this repository, you'll find a variety of React projects showcasing different
   <tr>
     <td>06.React Portfolio</td>
     <td><a href="https://sudeep-acharjee-live.netlify.app/">Check</td>
-    <td><a href="">Code</td>
+    <td><a href="https://github.com/SudeepAcharjee/React-Portfoilio">Code</td>
   </tr>
 
 
