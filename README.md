@@ -42,7 +42,7 @@ In this repository, you'll find a variety of React projects showcasing different
   <tr>
     <td>04.Weather App</td>
     <td><a href="https://weather-app-r4.netlify.app">Check</td>
-    <td><a href="">Code</td>
+    <td><a href="https://github.com/SudeepAcharjee/10-React-Project--JS-CSS/tree/master/04WeatherApp">Code</td>
   </tr>
 
   <tr>
