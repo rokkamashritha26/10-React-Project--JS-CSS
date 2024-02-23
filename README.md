@@ -36,7 +36,7 @@ In this repository, you'll find a variety of React projects showcasing different
    <tr>
     <td>03.Calculator App</td>
     <td><a href="https://calculator-r3.netlify.app/">Check</td>
-    <td><a href="">Code</td>
+    <td><a href="https://github.com/SudeepAcharjee/10-React-Project--JS-CSS/tree/master/03Calculator">Code</td>
   </tr>
 
   <tr>
