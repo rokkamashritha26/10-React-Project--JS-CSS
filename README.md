@@ -25,12 +25,12 @@ In this repository, you'll find a variety of React projects showcasing different
   <tr>
     <td>01.Counter-App</td>
     <td><a href="https://counter-r1.netlify.app/">Check</td>
-    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/tree/master/10-React%20Project(JS%20and%20CSS)/01COunter%20App">Code</td>
+    <td><a href="https://github.com/SudeepAcharjee/10-React-Project--JS-CSS/tree/master/01COunter%20App">Code</td>
   </tr>
   <tr>
     <td>02.Todo's List</td>
     <td><a href="https://todo-list-r2.netlify.app/">Check</td>
-    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/tree/master/10-React%20Project(JS%20and%20CSS)/02To-DO%20list">Code</td>
+    <td><a href="https://github.com/SudeepAcharjee/10-React-Project--JS-CSS/tree/master/02To-DO%20list">Code</td>
   </tr>
   
    <tr>
