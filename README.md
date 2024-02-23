@@ -69,14 +69,14 @@ In this repository, you'll find a variety of React projects showcasing different
 <tr>
     <td>08.Conatct Page</td>
     <td><a href="https://conatact-page-r8.netlify.app/">Check</td>
-    <td><a href="">Code</td>
+    <td><a href="https://github.com/SudeepAcharjee/10-React-Project--JS-CSS/tree/master/08.Contact%20Page">Code</td>
   </tr>
 
 
   <tr>
     <td>09.Dice Game</td>
     <td><a href="https://dice-game-r9.netlify.app/">Check</td>
-    <td><a href="">Code</td>
+    <td><a href="https://github.com/SudeepAcharjee/10-React-Project--JS-CSS/tree/master/09.Dice%20Game">Code</td>
   </tr>
 
 
