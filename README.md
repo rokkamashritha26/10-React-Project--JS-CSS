@@ -36,26 +36,26 @@ In this repository, you'll find a variety of React projects showcasing different
    <tr>
     <td>03.Calculator App</td>
     <td><a href="https://calculator-r3.netlify.app/">Check</td>
-    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/tree/master/10-React%20Project(JS%20and%20CSS)/03Calculator">Code</td>
+    <td><a href="">Code</td>
   </tr>
 
   <tr>
     <td>04.Weather App</td>
     <td><a href="https://weather-app-r4.netlify.app">Check</td>
-    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/tree/master/10-React%20Project(JS%20and%20CSS)/04WeatherApp">Code</td>
+    <td><a href="">Code</td>
   </tr>
 
   <tr>
     <td>05.Recpie Finder App</td>
     <td><a href="https://recpie-r5.netlify.app/">Check</td>
-    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/tree/master/10-React%20Project(JS%20and%20CSS)/05.Recipie%20Finder%20App">Code</td>
+    <td><a href="">Code</td>
   </tr>
 
 
   <tr>
     <td>06.React Portfolio</td>
     <td><a href="https://sudeep-acharjee-live.netlify.app/">Check</td>
-    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/blob/master/10-React%20Project(JS%20and%20CSS)/06.React-Portfoilio">Code</td>
+    <td><a href="">Code</td>
   </tr>
 
 
@@ -63,27 +63,27 @@ In this repository, you'll find a variety of React projects showcasing different
   <tr>
     <td>07.Single Branding Page</td>
     <td><a href="https://single-page-brand-r7.netlify.app/">Check</td>
-    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/tree/master/10-React%20Project(JS%20and%20CSS)/07.Single%20Page%20(Brand)">Code</td>
+    <td><a href="">Code</td>
   </tr>
 
 <tr>
     <td>08.Conatct Page</td>
     <td><a href="https://conatact-page-r8.netlify.app/">Check</td>
-    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/tree/master/10-React%20Project(JS%20and%20CSS)/07.Single%20Page%20(Brand)">Code</td>
+    <td><a href="">Code</td>
   </tr>
 
 
   <tr>
     <td>09.Dice Game</td>
     <td><a href="https://dice-game-r9.netlify.app/">Check</td>
-    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/tree/master/10-React%20Project(JS%20and%20CSS)/09.Dice%20Game">Code</td>
+    <td><a href="">Code</td>
   </tr>
 
 
   <tr>
     <td>10.Navbar(Theme Change)</td>
     <td><a href="https://navbar-theme-toggle-r10.netlify.app/">Check</td>
-    <td><a href="https://github.com/SudeepAcharjee/20-React-JS-CSS-TS-Tailwindcss-/tree/master/10-React%20Project(JS%20and%20CSS)/10.Navabar(Theme%20Change)">Code</td>
+    <td><a href="">Code</td>
   </tr>
 </table>
 
